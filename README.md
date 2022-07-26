@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm coder Khadiza</h1>
 
 <div align="center">
-<iframe src="https://giphy.com/embed/q6RoNkLlFNjaw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-q6RoNkLlFNjaw">via GIPHY</a></p>
+  <img src="https://giphy.com/gifs/cat-q6RoNkLlFNjaw?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fgithub.com%2Fkhadiza21%2Fkhadiza21%2Fblob%2Fmain%2FREADME.md" alt="Coder cat" width="300px"/>
 </div>
 
 <h2>👨🏽‍💻About Me </h2>
