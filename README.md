@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm coder Khadiza</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300px"/>
+<iframe src="https://giphy.com/embed/q6RoNkLlFNjaw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-q6RoNkLlFNjaw">via GIPHY</a></p>
 </div>
 
 <h2>👨🏽‍💻About Me </h2>
