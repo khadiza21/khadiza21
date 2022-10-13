@@ -49,9 +49,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="300px"/>
-</div>
+
 
 <br>
 
