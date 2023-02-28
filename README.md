@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi, I'm coder Khadiza</h1>
 
-<div align="center">
-  <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="Coder cat" width="350px" height="200" style="border-radius: 25px;"/>
-</div>
+
 
 <h2>👨🏽‍💻About Me </h2>
 
