@@ -81,18 +81,27 @@ Here are some ideas to get you started:
 </table>
 
 
-### ✅Problem Solving Online Judge
+### ✅ Problem-Solving Online Judge
 
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khadiza21" height="30" width="40" />
+      <div>
+        <a  href="https://www.hackerrank.com/profile/bibikhadiza474"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khadiza21" height="30" width="40" />  </a>
+      </div>
       <br>Hackerrank
     </td>
     <td align="center" width="100">
-       <a href="https://codeforces.com/profile/khadiza21">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khadiza21" height="30" width="40" />
+        <div>
+        <a  href="https://codeforces.com/profile/khadiza21"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khadiza21" height="30" width="40" /> </a>
+      </div>
       <br>Codeforces
+    </td>
+    <td align="center" width="100">
+        <div>
+        <a  href="https://vjudge.net/user/khadiza40"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vjudge.svg" alt="khadiza21" height="30" width="40" /> </a>
+      </div>
+      <br>vJudge
     </td>
   </tr>
 </table>
