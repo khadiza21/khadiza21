@@ -87,21 +87,21 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="100">
       <a href="https://www.hackerrank.com/profile/bibikhadiza474">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khadiza21" height="30" width="40" /><br>
-        💚 Hackerrank
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khadiza21" height="30" width="40" />
       </a>
+      <br>  <span>💚</span> <span>Hackerrank</span> 
     </td>
     <td align="center" width="100">
       <a href="https://codeforces.com/profile/khadiza21">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khadiza21" height="30" width="40" /><br>
-        💚 Codeforces
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khadiza21" height="30" width="40" />
       </a>
+      <br> <span>💚</span>  <span>Codeforces</span>
     </td>
     <td align="center" width="100">
       <a href="https://vjudge.net/user/khadiza40">
-        <img src="https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico" alt="khadiza40" height="30" width="40" /><br>
-        ❤️ vJudge
+        <img src="https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico" alt="khadiza40" height="30" width="40" />
       </a>
+        <br> <span>❤️</span>  <span>vJudge</span>
     </td>
   </tr>
 </table>
