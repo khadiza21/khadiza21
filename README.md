@@ -83,31 +83,29 @@ Here are some ideas to get you started:
 
 ### ✅ Problem-Solving Online Judge
 
-<table>
+   <table>
   <tr>
     <td align="center" width="100">
-      <div>
-        <a  href="https://www.hackerrank.com/profile/bibikhadiza474"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khadiza21" height="30" width="40" /> <br> 
-           <span  style="color:white;text-decoration:none;">Hackerrank</span>
-        </a>
-      </div > 
+      <a href="https://www.hackerrank.com/profile/bibikhadiza474">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khadiza21" height="30" width="40" /><br>
+        💚 Hackerrank
+      </a>
     </td>
     <td align="center" width="100">
-        <div>
-        <a  href="https://codeforces.com/profile/khadiza21"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khadiza21" height="30" width="40" />  <br> 
-           <span style="color:white;text-decoration:none;">Codeforces</span>
-        </a>
-      </div>
+      <a href="https://codeforces.com/profile/khadiza21">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khadiza21" height="30" width="40" /><br>
+        💚 Codeforces
+      </a>
     </td>
     <td align="center" width="100">
-        <div>
-        <a  href="https://vjudge.net/user/khadiza40"><img src="https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico" alt="khadiza40" height="30" width="40" />  <br>
-           <span  style="color:white;text-decoration:none;">vJudge</span>
-        </a>
-      </div>
+      <a href="https://vjudge.net/user/khadiza40">
+        <img src="https://vjudge.net/static/bundle/11b24ab2156955d8f3fa.ico" alt="khadiza40" height="30" width="40" /><br>
+        ❤️ vJudge
+      </a>
     </td>
   </tr>
 </table>
+
 
 ### ✅Frontend Development
 
