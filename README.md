@@ -90,6 +90,7 @@ Here are some ideas to get you started:
       <br>Hackerrank
     </td>
     <td align="center" width="100">
+       <a href="https://codeforces.com/profile/khadiza21">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khadiza21" height="30" width="40" />
       <br>Codeforces
     </td>
